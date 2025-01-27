@@ -3,10 +3,14 @@
 <br> <br/>
 
 ## 🌐 Socials:
-[![Facebook](assets/Facebook-icon.svg)](https://facebook.com/Adam.Ben.Hadj.Taher)
+[![Facebook](assets/Facebook-icon.svg)](https://facebook.com/Adam.Ben.Hadj.Taher) 
 [![LinkedIn](assets/LinkedIn-icon.svg)](https://linkedin.com/in/adambht)
 [![X](assets/X-icon.svg)](https://x.com/adam_bht)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=adambht&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+</div>
 <br> <br/>
+
 
 # 💻 Tech Stack:
 ![C](assets/C-icon.svg)
@@ -65,9 +69,12 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="47.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="43.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" width="48%" />
 </div>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br> <br/>
 
