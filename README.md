@@ -63,23 +63,13 @@
 <!--img.shields.io/badge-->
 <br> <br/>
 
-
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="47.5%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" width="52%" />
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adambht&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br> <br/>
 
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adambht&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=adambht&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
