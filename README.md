@@ -9,7 +9,6 @@
 
 
 # 💻 Tech Stack:
-<!-- Icon source for nVIDIA: https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white -->
 ![C](assets/C-icon.svg)
 ![C#](assets/csharp.svg)
 ![C++](assets/C++-icon.svg)
@@ -61,12 +60,16 @@
 ![Twilio](assets/Twilio-icon.svg) 
 ![Trello](assets/Trello-icon.svg) 
 ![nVIDIA](assets/nVIDIA-icon.svg)
+<!--img.shields.io/badge-->
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adambht&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adambht&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
