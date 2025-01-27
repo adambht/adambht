@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Adam.Ben.Hadj.Taher) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adambht) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adam_bht) 
+[![Facebook](assets/facebook-icon.svg)](https://facebook.com/Adam.Ben.Hadj.Taher)
+[![LinkedIn](assets/linkedin-icon.svg)](https://linkedin.com/in/adambht)
+[![X](assets/x-icon.svg)](https://x.com/adam_bht)
 
 
 # 💻 Tech Stack:
