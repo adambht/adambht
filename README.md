@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Facebook](assets/facebook-icon.svg)](https://facebook.com/Adam.Ben.Hadj.Taher)
-[![LinkedIn](assets/linkedin-icon.svg)](https://linkedin.com/in/adambht)
-[![X](assets/x-icon.svg)](https://x.com/adam_bht)
+[![Facebook](assets/Facebook-icon.svg)](https://facebook.com/Adam.Ben.Hadj.Taher)
+[![LinkedIn](assets/Linkedin-icon.svg)](https://linkedin.com/in/adambht)
+[![X](assets/X-icon.svg)](https://x.com/adam_bht)
 
 
 # 💻 Tech Stack:
