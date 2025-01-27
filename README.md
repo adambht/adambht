@@ -1,12 +1,12 @@
 # 💫 About Me:
 🎓 I’m currently studying at ESPRIT (School Sup Private Engineering and Technologies)<br>🌱 I’m currently learning Generative AI, LLMs.<br>🚀 Excited to contribute to AI projects, including Generative AI, Machine Learning, and Deep Learning.<br>🤝 I’m looking for Internship or Work opportunities (in Tunisia or abroad).<br>📫 How to reach me: adam.benhadjtahar01@gmail.com<br>🌟 Driven by a passion for innovation, problem-solving, and continuous learning.
-
+<br> <br/>
 
 ## 🌐 Socials:
 [![Facebook](assets/Facebook-icon.svg)](https://facebook.com/Adam.Ben.Hadj.Taher)
 [![LinkedIn](assets/LinkedIn-icon.svg)](https://linkedin.com/in/adambht)
 [![X](assets/X-icon.svg)](https://x.com/adam_bht)
-
+<br> <br/>
 
 # 💻 Tech Stack:
 ![C](assets/C-icon.svg)
@@ -61,13 +61,18 @@
 ![Trello](assets/Trello-icon.svg) 
 ![nVIDIA](assets/nVIDIA-icon.svg)
 <!--img.shields.io/badge-->
+<br> <br/>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true)<br/>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="41%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" width="45%" />
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adambht&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<br> <br/>
 
 
 
