@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 ![C](assets/C-icon.svg)
-![C#](assets/c#-icon.svg)
+![C#](assets/csharp.svg)
 ![C++](assets/C++-icon.svg)
 ![CSS3](assets/css3-icon.svg)
 ![HTML5](assets/HTML5-icon.svg)
