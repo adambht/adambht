@@ -9,7 +9,7 @@
 
 
 # 💻 Tech Stack:
-//https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white
+<!-- Icon source for nVIDIA: https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white -->
 ![C](assets/C-icon.svg)
 ![C#](assets/csharp.svg)
 ![C++](assets/C++-icon.svg)
