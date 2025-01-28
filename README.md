@@ -69,8 +69,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="43.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="41.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" width="46%" />
 </div>
 
 
