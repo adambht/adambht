@@ -69,13 +69,9 @@
 
 # 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" style="display: inline; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" style="display: inline;"/>
 </p>
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br> <br/>
 
