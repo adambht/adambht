@@ -68,9 +68,9 @@
 <br> <br/>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" />
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" style="width: 50%; max-width: 100px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" style="width: 50%; max-width: 100px; margin-top: 100px;" />
 </div>
 
 
