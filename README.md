@@ -69,7 +69,7 @@
 ![Trello](assets/Trello-icon.svg) 
 ![nVIDIA](assets/nVIDIA-icon.svg)
 <!--img.shields.io/badge-->
-<br> <br/>
+<br> 
 
 # 📊 GitHub Stats:
 <img align="right" alt="Coding" width="400" src="assets/robot.gif">
@@ -79,10 +79,8 @@
 <div style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" style="width: 50%; max-width: 100px; margin-top: 100px;" />
 </div>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br> <br/>
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adambht&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
