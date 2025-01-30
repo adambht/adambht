@@ -68,6 +68,7 @@
 <br> <br/>
 
 # 📊 GitHub Stats:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" style="width: 50%; max-width: 100px;" />
 </div>
