@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" width="250">
+  <img src="assets/banner.gif" width="300">
 </p>
 
 # 💫 About Me:
@@ -13,7 +13,7 @@
 <div style="text-align: center; margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=adambht&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 </div>
-<br> <br/>
+<br> 
 
 
 # 💻 Tech Stack:
