@@ -1,3 +1,4 @@
+<img align="center" width="400" src=assets/banner.gif>
 # 💫 About Me:
 🎓 I’m currently studying at ESPRIT (School Sup Private Engineering and Technologies)<br>🌱 I’m currently learning Generative AI, LLMs.<br>🚀 Excited to contribute to AI projects, including Generative AI, Machine Learning, and Deep Learning.<br>🤝 I’m looking for Internship or Work opportunities (in Tunisia or abroad).<br>📫 How to reach me: adam.benhadjtahar01@gmail.com<br>🌟 Driven by a passion for innovation, problem-solving, and continuous learning.
 <br> <br/>
@@ -68,7 +69,7 @@
 <br> <br/>
 
 # 📊 GitHub Stats:
-<img align="right" alt="Coding" width="400" src=assets/robot.gif>
+<img align="right" alt="Coding" width="400" src="assets/robot.gif">
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" style="width: 50%; max-width: 100px;" />
 </div>
