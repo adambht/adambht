@@ -70,6 +70,8 @@
 # 📊 GitHub Stats:
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=adambht&theme=dark&hide_border=true&include_all_commits=false&count_private=true" style="width: 50%; max-width: 100px;" />
+</div>
+<div style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambht&theme=dark&hide_border=true" style="width: 50%; max-width: 100px; margin-top: 100px;" />
 </div>
 
