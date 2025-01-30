@@ -1,4 +1,7 @@
-<img align="center" width="400" src=assets/banner.gif>
+<p align="center">
+  <img src="assets/banner.gif" width="400">
+</p>
+
 # 💫 About Me:
 🎓 I’m currently studying at ESPRIT (School Sup Private Engineering and Technologies)<br>🌱 I’m currently learning Generative AI, LLMs.<br>🚀 Excited to contribute to AI projects, including Generative AI, Machine Learning, and Deep Learning.<br>🤝 I’m looking for Internship or Work opportunities (in Tunisia or abroad).<br>📫 How to reach me: adam.benhadjtahar01@gmail.com<br>🌟 Driven by a passion for innovation, problem-solving, and continuous learning.
 <br> <br/>
